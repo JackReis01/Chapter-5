@@ -10,7 +10,7 @@ public class Debug1 {
 	      int usersChoice;
 	      double bill = 0.0;
 	      usersChoiceString = JOptionPane.showInputDialog(null,
-	         "Order please\n1 - Burger\2 - Hotdog" +
+	         "Order please\n1 - Burger\n2 - Hotdog" +
 	         "\n3 - Grilled cheese\n4 - Fish sandwich");
 	      usersChoice= Integer.parseInt(usersChoiceString);
 	      if(usersChoice == 1 || usersChoice == 2)

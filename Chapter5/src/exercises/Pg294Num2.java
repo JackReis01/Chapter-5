@@ -48,6 +48,5 @@ public class Pg294Num2 {
 	      else
 	    	  JOptionPane.showMessageDialog(null,  "Number 3 is not the biggest followed by number 1");
 	             
-
 	   }
 }
